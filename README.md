@@ -1,6 +1,5 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -10,44 +9,26 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
+for backend try to use differante server port : 4000
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+### Images
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![Screenshot (505)](https://github.com/harshsingh11-cyber/cardetails/assets/65847214/642f5d84-eb79-4cf7-9a75-fb89be9b96e6)
+![Screenshot (506)](https://github.com/harshsingh11-cyber/cardetails/assets/65847214/f619789d-db22-4251-a35a-71869069fd70)
+![Screenshot (507)](https://github.com/harshsingh11-cyber/cardetails/assets/65847214/61325eb5-55a9-44cc-a2c6-2b5aac0dcbfb)
+![Screenshot (513)](https://github.com/harshsingh11-cyber/cardetails/assets/65847214/297eaa2f-e1dc-4285-be60-fd2643d9035a)
+![Screenshot (509)](https://github.com/harshsingh11-cyber/cardetails/assets/65847214/a82d38d4-dbb0-442a-a51d-14c71b3c0c32)
+![Screenshot (511)](https://github.com/harshsingh11-cyber/cardetails/assets/65847214/d76cd981-ab88-4887-b479-13386109f63c)
+![Screenshot (512)](https://gi![Screenshot (514)](https://github.com/harshsingh11-cyber/cardetails/assets/65847214/5f880414-e082-48f5-b730-12c2b24aef3d)
+thub.com/harshsingh11-cyber/cardetails/assets/65847214/4745bec0-483d-4b5a-8826-6aa0f8510484)
 
 ### Analyzing the Bundle Size
 
@@ -63,7 +44,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+This section has moved here: it full stack project no any link .it is available localy only
 
 ### `npm run build` fails to minify
 
